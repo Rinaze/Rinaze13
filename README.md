@@ -1,4 +1,4 @@
-## Диаграмма классов для задания Практика «Enumerable и Индексатор»
+## Диаграмма классов для задания Практика «Add и Contains»
 ![image](https://github.com/user-attachments/assets/7e3b7ade-243f-476a-859c-97a951baab2a)
 
 
